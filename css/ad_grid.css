@@ -1,0 +1,21 @@
+#product_grid1_section{
+    background-color: lightgray;
+    min-height: 50px;
+}
+
+#product_grid1{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+#product_grid1 aside{
+    background-color: blue;
+    min-height: 50px;
+}
+
+#wide_area{
+    grid-column: 2 / span 3;
+    grid-row: 1 / span 2;
+}
