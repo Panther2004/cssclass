@@ -12,6 +12,7 @@
         include_once "components/page_head.html";
         include_once "components/banner.html";
         include_once "components/featured_product.html";
+        include_once "components/ad_grid.html";
 
     ?>
 </body>
