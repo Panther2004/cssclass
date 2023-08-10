@@ -1,0 +1,20 @@
+#container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgray;
+}
+img{
+    height: 310px;
+    width: 350px;
+}
+aside{
+    max-width: 500px;
+    padding-right: 200px;
+}
+h1{
+    text-align: center;
+}
+#shop{
+    border-radius: 10px;
+}
