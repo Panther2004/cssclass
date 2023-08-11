@@ -9,9 +9,9 @@
 #banner1{
     min-height: 400px;
     background-color: lightgray;
-    background-image: url("../images/lamborghini.avif");
+    background-image: url("../images/lady.png");
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-position: center right;
+    background-size: contain ;
 }
 
